@@ -1,0 +1,4 @@
+service\AnimalService.class
+dto\CadastroAnimalDto.class
+dto\RespostaAnimalDto.class
+resource\AnimalResource.class
